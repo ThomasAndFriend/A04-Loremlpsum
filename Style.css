@@ -1,0 +1,49 @@
+h1{
+	font-family: arial;
+	font-size: 28px;
+	font-style: bold;
+	color: black;
+}
+
+.Conteneur{ 
+	margin:auto;
+	border:1px solid #CECECE;
+	border-radius:5px;
+	width:96%;
+	background-color:white;
+	padding:10px;
+	font-family:arial;
+}	
+
+.ConteneurInt{ 
+	margin:auto;
+	border:1px solid #CECECE;
+	border-radius:5px;
+	width:96%;
+	background-color:blue;
+	padding:10px;
+	font-family:arial;
+}
+.ConteneurTb1{ 
+	margin:auto;
+	border:1px solid #CECECE;
+	border-radius:5px;
+	width:96%;
+	background-color:yellow;
+	padding:10px;
+	font-family:arial;
+}
+.ConteneurTb2{ 
+	margin:auto;
+	border:1px solid #CECECE;
+	border-radius:5px;
+	width:96%;
+	background-color:red;
+	padding:10px;
+	font-family:arial;
+}
+
+lorem{
+	background-color: black;
+	color: white;
+}
